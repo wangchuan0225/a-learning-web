@@ -9,4 +9,8 @@
 ![Alt text](/picture/p1.png)
 当识别为合法人员并且账号密码正确时跳转到主页，主页目前只包含五部分，退出，python学习，java学习，以及google界面，在每个界面下面都加上了讯飞星火的api，可以向其询问问题并得到答复。
 ![Alt text](/picture/p2.png)
-
+在java学习，python学习界面中包含一个展示表格和一个search，updata按钮，当按search时从数据库中获取相关内容进行展示，当按updata时使用动态爬虫从网上爬取相关信息以及链接存到数据库。
+![Alt text](/picture/p3.png)
+![Alt text](/picture/p4.png)
+在google页面中可以直接进行google搜索，会将结果结果的标题和链接放到列表中
+![Alt text](/picture/p5.png)
