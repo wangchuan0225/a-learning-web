@@ -18,11 +18,8 @@ https://github.com/wangchuan0225/a-learning-web.git
 功能模块： 
 
     |--登录  
-
         |--输入账号密码进行加密传到后端  
-    
         |--使用训练好的pca代码进行人脸特征提取  
-    
     |--主页面  
 
         |--退出到登录页  
@@ -49,6 +46,13 @@ https://github.com/wangchuan0225/a-learning-web.git
 
 文件结构： 
 
-|--project-back-end 文件夹内包含后端的代码
-    |--
+    |--project-back-end 文件夹内包含后端的代码  
+    
+        |--controller 存放controller层内容  
+            |==
+        
+        |--entity 存放映射数据库结构的实体
+
+        |--mapper 存放数据库操作
+        
 
