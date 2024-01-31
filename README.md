@@ -21,27 +21,16 @@ https://github.com/wangchuan0225/a-learning-web.git
         |--输入账号密码进行加密传到后端  
         |--使用训练好的pca代码进行人脸特征提取  
     |--主页面  
-
         |--退出到登录页  
-
         |--python学习页  
-    
           |--search 从数据库中选择数据进行输出  
-      
           |--updata 使用爬虫从网上找到特定文章  
-      
           |--ai 进行简单对话和询问建议  
-      
         |--java学习页  
-    
           |--search 从数据库中选择数据进行输出  
-      
           |--updata 使用爬虫从网上找到特定文章  
-      
           |--ai 进行简单对话和询问建议  
-      
         |--google搜索页  
-    
           |--输入进行搜索  
 
 文件结构： 
@@ -49,7 +38,7 @@ https://github.com/wangchuan0225/a-learning-web.git
     |--project-back-end 文件夹内包含后端的代码  
     
         |--controller 存放controller层内容  
-            |==
+            |-- AIcontroller 调用api的接口
         
         |--entity 存放映射数据库结构的实体
 
