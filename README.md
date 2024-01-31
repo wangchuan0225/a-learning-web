@@ -18,13 +18,11 @@ https://github.com/wangchuan0225/a-learning-web.git
 功能模块： 
 
 |--登录  
-
     |--输入账号密码进行加密传到后端  
     
     |--使用训练好的pca代码进行人脸特征提取  
     
 |--主页面  
-
     |--退出到登录页  
 
     |--python学习页  
@@ -47,5 +45,8 @@ https://github.com/wangchuan0225/a-learning-web.git
     
       |--输入进行搜索  
 
-文件结构
+文件结构： 
+
+|--project-back-end 文件夹内包含后端的代码
+    |--
 
