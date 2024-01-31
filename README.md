@@ -16,20 +16,35 @@ https://github.com/wangchuan0225/a-learning-web.git
 在google页面中可以直接进行google搜索，会将结果结果的标题和链接放到列表中
 ![Alt text](/picture/p5.png)
 功能模块： 
+
 |--登录  
+
     |--输入账号密码进行加密传到后端  
+    
     |--使用训练好的pca代码进行人脸特征提取  
+    
 |--主页面  
+
     |--退出到登录页  
+
     |--python学习页  
+    
       |--search 从数据库中选择数据进行输出  
+      
       |--updata 使用爬虫从网上找到特定文章  
+      
       |--ai 进行简单对话和询问建议  
+      
     |--java学习页  
+    
       |--search 从数据库中选择数据进行输出  
+      
       |--updata 使用爬虫从网上找到特定文章  
+      
       |--ai 进行简单对话和询问建议  
+      
     |--google搜索页  
+    
       |--输入进行搜索  
 
 文件结构
