@@ -4,6 +4,7 @@
 
 效果视频：  
 https://github.com/wangchuan0225/a-learning-web.git
+
 介绍：
 首先登录界面需要输入密码和账号，点击登录后调用pca人脸识别程序，调用电脑摄像头进行人脸识别。
 ![Alt text](/picture/p1.png)
