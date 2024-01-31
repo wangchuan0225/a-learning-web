@@ -2,8 +2,8 @@
 前言：
 使用Springboot+vue架构进行前后端链接和mybaits库链接数据库，里面使用python的beautifulsoup，request，msedge.selenium_tools库进行动态网页爬虫，pca算法的人脸特征提取分析以及讯飞星火提供的api接口进行链接构造的简单的学习页面。
 
-使用技术：
-
+效果视频：  
+https://github.com/wangchuan0225/a-learning-web.git
 介绍：
 首先登录界面需要输入密码和账号，点击登录后调用pca人脸识别程序，调用电脑摄像头进行人脸识别。
 ![Alt text](/picture/p1.png)
@@ -30,5 +30,6 @@
       |--ai 进行简单对话和询问建议  
     |--google搜索页  
       |--输入进行搜索  
-  
+
+文件结构
 
